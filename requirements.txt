@@ -6,4 +6,4 @@ streamlit-folium
 geopy
 requests
 scipy
-
+networkx
